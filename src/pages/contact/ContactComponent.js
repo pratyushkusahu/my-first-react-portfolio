@@ -11,8 +11,9 @@ import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
 
 const ContactData = contactPageData.contactSection;
-const blogSection = contactPageData.blogSection;
-const addressSection = contactPageData.addressSection;
+//const blogSection = contactPageData.blogSection;
+const parmanentddressSection = contactPageData.parmanentddressSection;
+const presentaddressSection = contactPageData.presentaddressSection;
 const phoneSection = contactPageData.phoneSection;
 
 class Contact extends Component {
@@ -55,7 +56,7 @@ class Contact extends Component {
               </div>
             </div>
           </Fade>
-          <Fade bottom duration={1000} distance="40px">
+          {/* <Fade bottom duration={1000} distance="40px">
             <div className="blog-heading-div">
               <div className="blog-heading-text-div">
                 <h1 className="blog-heading-text" style={{ color: theme.text }}>
@@ -80,11 +81,11 @@ class Contact extends Component {
                 {/* <img
 											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
 											alt=""
-										/> */}
+										/> 
                 <BlogsImg theme={theme} />
               </div>
             </div>
-          </Fade>
+          </Fade> */}
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
@@ -99,13 +100,33 @@ class Contact extends Component {
                   className="address-heading-text"
                   style={{ color: theme.text }}
                 >
-                  {addressSection["title"]}
+                  {parmanentddressSection["title"]}
                 </h1>
                 <p
                   className="contact-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {addressSection["subtitle"]}
+                  {parmanentddressSection["subtitle"]}
+                </p>
+                <div className="address-btn-div">
+                  <Button
+                    text="Visit on Google Maps"
+                    newTab={true}
+                    href={parmanentddressSection.location_map_link}
+                    theme={theme}
+                  />
+                </div>
+                <h1
+                  className="address-heading-text"
+                  style={{ color: theme.text }}
+                >
+                  {presentaddressSection["title"]}
+                </h1>
+                <p
+                  className="contact-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  {presentaddressSection["subtitle"]}
                 </p>
                 <h1
                   className="address-heading-text"
@@ -123,7 +144,7 @@ class Contact extends Component {
                   <Button
                     text="Visit on Google Maps"
                     newTab={true}
-                    href={addressSection.location_map_link}
+                    href={presentaddressSection.location_map_link}
                     theme={theme}
                   />
                 </div>

@@ -747,9 +747,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "Pratyush.jpg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am currently available for hire and open to any ideas of cooperation. You can connect with me via linkedIn or E-mail me @pratyushkusahu@gmail.com, I will reply within 24 hours.",
   },
   blogSection: {
     title: "Blogs",
@@ -758,17 +758,29 @@ const contactPageData = {
     link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
-  addressSection: {
-    title: "Address",
+  presentaddressSection: {
+    title: "Present Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
+      "#10,12th 'A' Main, BTM,1st Stage, S.G. Palya, Bengaluru, Karnataka 560029",
+    locality: "Bengaluru",
     country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    region: "Karnataka",
+    postalCode: "560029",
+    streetAddress: " BTM,1st Stage",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/7Krrite9B4jYNn948",
+  },
+  parmanentddressSection: {
+    title: "Permanent Address",
+    subtitle:
+      "Sanfasad, Po-Duduka, Dist.-Balangir, Odisha - 767061",
+    locality: "Balangir",
+    country: "IN",
+    region: "Odisha",
+    postalCode: "767061",
+    streetAddress: "Sanfasad",
+    avatar_image_path: "address_image.svg",
+    location_map_link: "https://maps.app.goo.gl/b1TehjHQRfffyNZw7",
   },
   phoneSection: {
     title: "",
