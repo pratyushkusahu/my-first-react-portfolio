@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "my-first-react-portfolio",
-  "homepage": "https://pratyushkusahu.github.io/*/home",
+  "homepage": "https://pratyushkusahu.github.io/my-first-react-portfolio/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
