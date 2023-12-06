@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Pratyush's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://pratyushkusahu.github.io/home",
   },
 };
 
@@ -748,7 +748,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "Pratyush.jpg",
+    profile_image_path: "Pratyush.png",
     description:
       "I am currently available for hire and open to any ideas of cooperation. You can connect with me via linkedIn or E-mail me @pratyushkusahu@gmail.com, I will reply within 24 hours.",
   },
