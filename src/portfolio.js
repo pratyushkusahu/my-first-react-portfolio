@@ -11,7 +11,7 @@ const seo = {
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Pratyush's Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -550,7 +550,7 @@ const experience = {
           duration: "May 2020 - Current",
           location: "Bangalore, Karnataka",
           description:
-            "I am working on automating ETL Process. The projects involve automation for process improvements and for significantly enhancing the profits."+
+            "I am working on automating ETL Process. The projects involve automation for process improvements and for significantly enhancing the profits." +
             " Our goal is to make AI system which scales and removes Human intervention in the ETL process.",
           color: "#0879bf",
         },
@@ -584,14 +584,15 @@ const experience = {
         {
           title: "Machine Learning Intern",
           company: "Android Development Intern at Accurate Info-Solutions",
-          company_url: "https://www.linkedin.com/company/accurate-info-solution/?originalSubdomain=in",
+          company_url:
+            "https://www.linkedin.com/company/accurate-info-solution/?originalSubdomain=in",
           logo_path: "accurate_info_solution_logo.jpg",
           duration: "AUGUST 2021 - OCTOBER 2021",
           location: "Bangalore, Karnataka",
           description:
-            "Designed and Developed the layout Added the new features like feedback in the comment box."+
-            "Revamped main screen and fixed bug."+
-           " The Technologies used in this project ware JAVA(Backend) and Xml(Frontend) using Android Studio.",
+            "Designed and Developed the layout Added the new features like feedback in the comment box." +
+            "Revamped main screen and fixed bug." +
+            " The Technologies used in this project ware JAVA(Backend) and Xml(Frontend) using Android Studio.",
           color: "#000000",
         },
         // {
@@ -772,8 +773,7 @@ const contactPageData = {
   },
   parmanentddressSection: {
     title: "Permanent Address",
-    subtitle:
-      "Sanfasad, Po-Duduka, Dist.-Balangir, Odisha - 767061",
+    subtitle: "Sanfasad, Po-Duduka, Dist.-Balangir, Odisha - 767061",
     locality: "Balangir",
     country: "IN",
     region: "Odisha",
