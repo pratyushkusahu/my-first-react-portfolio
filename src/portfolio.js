@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Hey, I am Pratyush",
   logo_name: "Pratyush Kumar Sahu",
-  nickname: "JAVA FullStack Developer",
+  nickname: "Java Developer",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
