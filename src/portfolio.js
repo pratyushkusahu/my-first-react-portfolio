@@ -759,7 +759,7 @@ const experience = {
   ],
 };
 
-// Projects Page
+// Projects Page // to active this page uncomment the codes in Header.js
 const projectsHeader = {
   title: "Projects",
   description:
