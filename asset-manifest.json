@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-first-react-portfolio/static/css/main.9d36b4d5.css",
-    "main.js": "/my-first-react-portfolio/static/js/main.7a799fb3.js",
+    "main.js": "/my-first-react-portfolio/static/js/main.98458d79.js",
     "static/media/portfolio.gif": "/my-first-react-portfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/Pratyush.png": "/my-first-react-portfolio/static/media/Pratyush.a5852645ed68c4a71964.png",
     "static/media/fa-solid-900.svg": "/my-first-react-portfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
@@ -69,10 +69,10 @@
     "static/media/talksCardBackAlt.svg": "/my-first-react-portfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/my-first-react-portfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.9d36b4d5.css.map": "/my-first-react-portfolio/static/css/main.9d36b4d5.css.map",
-    "main.7a799fb3.js.map": "/my-first-react-portfolio/static/js/main.7a799fb3.js.map"
+    "main.98458d79.js.map": "/my-first-react-portfolio/static/js/main.98458d79.js.map"
   },
   "entrypoints": [
     "static/css/main.9d36b4d5.css",
-    "static/js/main.7a799fb3.js"
+    "static/js/main.98458d79.js"
   ]
 }
