@@ -19,14 +19,14 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Hey, I am Pratyush Kumar Sahu",
+  title: "Hey, I am Pratyush",
   logo_name: "Pratyush Kumar Sahu",
-  //nickname: "layman_brother",
+  nickname: "JAVA FullStack Developer",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1b9uu2xPzLhkZyVeo1vxLBuCrWuLsLZUn/view?usp=drive_link",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/pratyushkusahu",
   githubProfile: "https://github.com/pratyushkusahu",
 };
 
@@ -87,47 +87,78 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Java Software Developer",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ A Java developer specializing in ETL software development, Spring FrameWorks,JavaScript, SQL, and computer science. A strong background in supporting the design and development of user-centric web applications. Adept at performing complex testing to refine application performance and functionality.",
+        "⚡ Perform code optimization, conduct unit testing, and develop frameworks using object-oriented design principles",
+        "⚡ Coordinate with the development team to identify automation opportunities and improve technical support for end users",
+        "⚡ Attend meetings with the development team, IT department, and product owner to evaluate project progress and ensure alignment with business specifications",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          skillName: "JAVA",
+          imageSrc: "java2.png",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
           },
         },
         {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
+          skillName: "Spring",
+          imageSrc: "spring.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Maven",
+          imageSrc: "maven.png",
+          style: {
+            backgroundColor: "#5755ab",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "MySQL",
+          imageSrc: "mysql.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Eclips",
+          imageSrc: "eclipse.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Intellij",
+          imageSrc: "Intellij.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Tomcat",
+          imageSrc: "tomcat.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "git",
+          imageSrc: "git.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
         },
       ],
     },
@@ -135,18 +166,90 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Developing web applications using React-JS, JSP, HTML,CSS,JQueries",
+        "⚡ Building responsive mobile front end using Android Studios-Java",
+        "⚡ Creating application backend in JAVA, Spring & SQL",
       ],
       softwareSkills: [
         {
           skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          imageSrc: "html5.png",
           style: {
-            color: "#E34F26",
+            backgroundColor: "transparent",
+            color: "#3776AB",
           },
         },
+        {
+          skillName: "Bootstrap",
+          imageSrc: "bootstrap.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "CSS3",
+          imageSrc: "css3.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "JS",
+          imageSrc: "js.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "React",
+          imageSrc: "react.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Android",
+          imageSrc: "android.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "JSON",
+          imageSrc: "json.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "VSCode",
+          imageSrc: "vscode.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "xml",
+          imageSrc: "xml.png",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        // {
+        //   skillName: "HTML5",
+        //   fontAwesomeClassname: "simple-icons:html5",
+        //   style: {
+        //     color: "#E34F26",
+        //   },
+        // },
         {
           skillName: "CSS3",
           fontAwesomeClassname: "fa-css3",
@@ -177,149 +280,121 @@ const skills = {
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
           skillName: "NPM",
           fontAwesomeClassname: "simple-icons:npm",
           style: {
             color: "#CB3837",
           },
         },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
       ],
     },
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-      ],
-      softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
-      ],
-    },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "Cloud Infra-Architecture",
+    //   fileName: "CloudInfraImg",
+    //   skills: [
+    //     "⚡ Experience working on multiple cloud platforms",
+    //     "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+    //     "⚡ Deploying deep learning models on cloud to use on mobile devices",
+    //     "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "GCP",
+    //       fontAwesomeClassname: "simple-icons:googlecloud",
+    //       style: {
+    //         color: "#4285F4",
+    //       },
+    //     },
+    //     {
+    //       skillName: "AWS",
+    //       fontAwesomeClassname: "simple-icons:amazonaws",
+    //       style: {
+    //         color: "#FF9900",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Azure",
+    //       fontAwesomeClassname: "simple-icons:microsoftazure",
+    //       style: {
+    //         color: "#0089D6",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Firebase",
+    //       fontAwesomeClassname: "simple-icons:firebase",
+    //       style: {
+    //         color: "#FFCA28",
+    //       },
+    //     },
+    //     {
+    //       skillName: "PostgreSQL",
+    //       fontAwesomeClassname: "simple-icons:postgresql",
+    //       style: {
+    //         color: "#336791",
+    //       },
+    //     },
+    //     {
+    //       skillName: "MongoDB",
+    //       fontAwesomeClassname: "simple-icons:mongodb",
+    //       style: {
+    //         color: "#47A248",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Docker",
+    //       fontAwesomeClassname: "simple-icons:docker",
+    //       style: {
+    //         color: "#1488C6",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Kubernetes",
+    //       fontAwesomeClassname: "simple-icons:kubernetes",
+    //       style: {
+    //         color: "#326CE5",
+    //       },
+    //     },
+    //   ],
+    // },
+    // {
+    //   title: "UI/UX Design",
+    //   fileName: "DesignImg",
+    //   skills: [
+    //     "⚡ Designing highly attractive user interface for mobile and web applications",
+    //     "⚡ Customizing logo designs and building logos from scratch",
+    //     "⚡ Creating the flow of application functionalities to optimize user experience",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Adobe XD",
+    //       fontAwesomeClassname: "simple-icons:adobexd",
+    //       style: {
+    //         color: "#FF2BC2",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Figma",
+    //       fontAwesomeClassname: "simple-icons:figma",
+    //       style: {
+    //         color: "#F24E1E",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe Illustrator",
+    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
+    //       style: {
+    //         color: "#FF7C00",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Inkscape",
+    //       fontAwesomeClassname: "simple-icons:inkscape",
+    //       style: {
+    //         color: "#000000",
+    //       },
+    //     },
+    //   ],
+    // },
   ],
 };
 
@@ -535,7 +610,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Internship",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "A Java developer specializing in ETL software development, Spring FrameWorks,JavaScript, SQL, and computer science. A strong background in supporting the design and development of user-centric web applications. Adept at performing complex testing to refine application performance and functionality.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -550,8 +625,8 @@ const experience = {
           duration: "May 2020 - Current",
           location: "Bangalore, Karnataka",
           description:
-            "I am working on automating ETL Process. The projects involve automation for process improvements and for significantly enhancing the profits." +
-            " Our goal is to make AI system which scales and removes Human intervention in the ETL process.",
+            "⚡ I am working on automating ETL Process.⚡ The projects involve automation for process improvements and for significantly enhancing the profits." +
+            " ⚡ Our goal is to make AI system which scales and removes Human intervention in the ETL process.",
           color: "#0879bf",
         },
         // {
@@ -582,8 +657,8 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "Android Development Intern at Accurate Info-Solutions",
+          title: "Android Development Intern",
+          company: " at Accurate Info-Solutions",
           company_url:
             "https://www.linkedin.com/company/accurate-info-solution/?originalSubdomain=in",
           logo_path: "accurate_info_solution_logo.jpg",
@@ -750,7 +825,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "Pratyush.png",
     description:
-      "I am currently available for hire and open to any ideas of cooperation. You can connect with me via linkedIn or E-mail me @pratyushkusahu@gmail.com, I will reply within 24 hours.",
+      "I am currently available for hire and open to any ideas of cooperation. You can connect with me via linkedIn or E-mail me @::pratyushkusahu@gmail.com, I will reply within 24 hours.",
   },
   blogSection: {
     title: "Blogs",
