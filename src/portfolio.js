@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Hey, I am Pratyush",
+  title: "Pratyush Kumar Sahu",
   logo_name: "Pratyush Kumar Sahu",
   nickname: "Software Developer",
   subTitle:
