@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-first-react-portfolio/static/css/main.9d36b4d5.css",
-    "main.js": "/my-first-react-portfolio/static/js/main.ebe7688b.js",
+    "main.js": "/my-first-react-portfolio/static/js/main.edd9f53d.js",
     "static/media/portfolio.gif": "/my-first-react-portfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/Pratyush.png": "/my-first-react-portfolio/static/media/Pratyush.a5852645ed68c4a71964.png",
     "static/media/DSC_6917.JPG": "/my-first-react-portfolio/static/media/DSC_6917.1d4c309256f7c0dca434.JPG",
@@ -85,10 +85,10 @@
     "static/media/talksCardBackAlt.svg": "/my-first-react-portfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/my-first-react-portfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.9d36b4d5.css.map": "/my-first-react-portfolio/static/css/main.9d36b4d5.css.map",
-    "main.ebe7688b.js.map": "/my-first-react-portfolio/static/js/main.ebe7688b.js.map"
+    "main.edd9f53d.js.map": "/my-first-react-portfolio/static/js/main.edd9f53d.js.map"
   },
   "entrypoints": [
     "static/css/main.9d36b4d5.css",
-    "static/js/main.ebe7688b.js"
+    "static/js/main.edd9f53d.js"
   ]
 }
