@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/my-first-react-portfolio/static/css/main.9d36b4d5.css",
-    "main.js": "/my-first-react-portfolio/static/js/main.73b19672.js",
+    "main.js": "/my-first-react-portfolio/static/js/main.76fba80d.js",
     "static/media/portfolio.gif": "/my-first-react-portfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/Pratyush.png": "/my-first-react-portfolio/static/media/Pratyush.a5852645ed68c4a71964.png",
+    "static/media/DSC_6917.JPG": "/my-first-react-portfolio/static/media/DSC_6917.1d4c309256f7c0dca434.JPG",
     "static/media/fa-solid-900.svg": "/my-first-react-portfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
-    "static/media/DSC_6917.JPG": "/my-first-react-portfolio/static/media/DSC_6917.44ca768ecce0bb134c40.JPG",
     "static/media/fa-brands-400.svg": "/my-first-react-portfolio/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/Pratyush.jpg": "/my-first-react-portfolio/static/media/Pratyush.59ea6c38ff5091ca0023.jpg",
     "static/media/react.png": "/my-first-react-portfolio/static/media/react.becbab0ab5d2271d2831.png",
@@ -23,6 +23,7 @@
     "static/media/eclipse.png": "/my-first-react-portfolio/static/media/eclipse.2ad62ba9c60942fa8227.png",
     "static/media/fa-brands-400.eot": "/my-first-react-portfolio/static/media/fa-brands-400.b09f783b99c88d6989f7.eot",
     "static/media/fa-brands-400.ttf": "/my-first-react-portfolio/static/media/fa-brands-400.ec7723ea62ad74c14959.ttf",
+    "static/media/Kyrion-Logo.png": "/my-first-react-portfolio/static/media/Kyrion-Logo.d7cb8c321ca3badca301.png",
     "static/media/GoogleSans-Italic.ttf": "/my-first-react-portfolio/static/media/GoogleSans-Italic.40bb50bd202405745006.ttf",
     "static/media/GoogleSans-MediumItalic.ttf": "/my-first-react-portfolio/static/media/GoogleSans-MediumItalic.56d4f777a7997e5a10b3.ttf",
     "static/media/GoogleSans-BoldItalic.ttf": "/my-first-react-portfolio/static/media/GoogleSans-BoldItalic.d282e9c31d0f894a7f06.ttf",
@@ -43,6 +44,7 @@
     "static/media/iiitk_logo.png": "/my-first-react-portfolio/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/my-first-react-portfolio/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/my-first-react-portfolio/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
+    "static/media/jsp.jpg": "/my-first-react-portfolio/static/media/jsp.5f4b5461575d510d26e6.jpg",
     "static/media/manOnTable.svg": "/my-first-react-portfolio/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/java.png": "/my-first-react-portfolio/static/media/java.5d5cffa04d820ba0644c.png",
     "static/media/muffito_logo.png": "/my-first-react-portfolio/static/media/muffito_logo.a40e290031eaf389bde1.png",
@@ -57,6 +59,7 @@
     "static/media/json.png": "/my-first-react-portfolio/static/media/json.c0e44825233399f11089.png",
     "static/media/developerActivity.svg": "/my-first-react-portfolio/static/media/developerActivity.967f31dad3158d5be07b.svg",
     "static/media/github_logo.png": "/my-first-react-portfolio/static/media/github_logo.15e591a7397b9ef45656.png",
+    "static/media/usnews.png": "/my-first-react-portfolio/static/media/usnews.d00f3f06b48903262f56.png",
     "static/media/googleAssistant.jpg": "/my-first-react-portfolio/static/media/googleAssistant.547075a751cc15673246.jpg",
     "static/media/projects_image.svg": "/my-first-react-portfolio/static/media/projects_image.0a8062569966b4888c7c.svg",
     "static/media/programmer.svg": "/my-first-react-portfolio/static/media/programmer.d3060f7bf0527835d72e.svg",
@@ -82,10 +85,10 @@
     "static/media/talksCardBackAlt.svg": "/my-first-react-portfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/my-first-react-portfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.9d36b4d5.css.map": "/my-first-react-portfolio/static/css/main.9d36b4d5.css.map",
-    "main.73b19672.js.map": "/my-first-react-portfolio/static/js/main.73b19672.js.map"
+    "main.76fba80d.js.map": "/my-first-react-portfolio/static/js/main.76fba80d.js.map"
   },
   "entrypoints": [
     "static/css/main.9d36b4d5.css",
-    "static/js/main.73b19672.js"
+    "static/js/main.76fba80d.js"
   ]
 }
