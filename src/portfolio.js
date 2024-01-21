@@ -486,12 +486,48 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Certification of Java FullStack Web Development",
+      subtitle: "- JSpiders, Bengaluru",
+      logo_path: "jsp.jpg",
+      certificate_link:
+        "https://drive.google.com/file/d/1IMBH7qhI3F980LjXNbAeylqGAFfh6ULV/view?usp=sharing",
+      alt_name: "JSpiders",
+      color_code: "#8C151599",
+    },
+    {
       title: "The Complete Android & Java Developer Course - Build 21 Apps",
       subtitle: "- Paulo Dichone",
       logo_path: "stanford_logo.png",
       certificate_link:
         "https://www.udemy.com/certificate/UC-96308434-27b2-4eb4-9060-2652ed81eaed/",
       alt_name: "Stanford University",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Certification of Ethical Hacking workshop",
+      subtitle: "- Kyrion Technology",
+      logo_path: "Kyrion-Logo.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-96308434-27b2-4eb4-9060-2652ed81eaed/",
+      alt_name: "Kyrion Technology",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Certification of  Python Programming ",
+      subtitle: "- EdYoda Digital University, Dipesh Sharma ",
+      logo_path: "usnews.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-df606782-2dc0-45d2-b5e6-24b8dd689d50/",
+      alt_name: "Udemy",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Certification of  JavaScript, Bootstrap ",
+      subtitle: "- YouAccel Training",
+      logo_path: "usnews.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-d3b57954-fe58-4426-bb9a-7206403e84f8/",
+      alt_name: "Udemy",
       color_code: "#8C151599",
     },
     // {
